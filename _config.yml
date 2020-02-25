@@ -23,8 +23,8 @@ email: definethefree@us.com
 description: >- # this means to ignore newlines until "baseurl:"
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
   sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/dtf.github.io" # the subpath of your site, e.g. /blog
+url: "https://chavezdevin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: definethefree
 
 # Build settings
