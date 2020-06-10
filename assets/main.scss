@@ -3,7 +3,13 @@
 @import "{{site.theme}}"; 
 
 body {
+    background-color: #ffffff;
+    height: 500px;
     background-image: url(https://live.staticflickr.com/65535/49990120277_a44710e0c8_o.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 
 }
 
